@@ -61,4 +61,7 @@ Sleep, 4000
 Run D:\Courses\[GigaCourse.com] Udemy - Complete C# Unity Developer 3D Learn to Code Making Games\Watch\6. Zombie Runner - First Person Shooter
 
 
+
+;~ Open Google Drive cuz the fist thing it do close it😶
+Run C:\Program Files\Google\Drive\googledrivesync.exe
 Return
